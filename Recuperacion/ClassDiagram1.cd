@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Recuperacion.ALQUILER" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>ALQUILER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.BARCO" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQEAAAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BARCO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.BarcoDeportivo" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>BarcoDeportivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.BarcoVelero" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BarcoVelero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.Yates" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAA=</HashCode>
+      <FileName>Yates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.CLIENTE" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAAAAgAAAAAAAgAIAAAAAAAAAAAA=</HashCode>
+      <FileName>CLIENTE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.Program" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recuperacion.ClienteAlquiler" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ClienteAlquiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
